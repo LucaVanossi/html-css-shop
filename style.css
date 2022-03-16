@@ -1,9 +1,29 @@
-#Ipad1 {
+/*#Ipad1 {
     position: relative;
     }
 
 #Iphone1 {
     position: absolute;
-    left: 400px;
-    bottom:200px; 
-}    
+    float: left;
+    display: block;
+    left: 315px;
+    bottom:339px;
+
+    } */
+
+/*#Ipad1 ; #Iphone1 ;  #Beats1 ; #Ipad2 ; #Iphone2 ; #Beats2*/ 
+img {
+    display: inline-block;
+    height: 450px;
+    width: 400px;
+}
+main {
+    margin-top: 40px;
+    margin-left: 15px;
+}
+
+header {
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
