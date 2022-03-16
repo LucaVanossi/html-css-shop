@@ -15,6 +15,27 @@ header {
 }
 
 
+.Foto {
+    display: inline-block;
+    position: relative;
+}
 
+.topright-green , .topright-red {
+    position: absolute;
+    top: 0 ;
+    right: 0 ;
+    font-weight: bold ;
+}
 
+.topright-green {
+    padding: 5px;
+    background-color: green;
+    border: green;
+}
+
+.topright-red {
+    padding: 5px;
+    background-color: red;
+    border: red;
+}
 
