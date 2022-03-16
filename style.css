@@ -39,3 +39,17 @@ header {
     border: red;
 }
 
+#Heart {
+    position: absolute;
+    right: 200px;
+    bottom: 20px;
+    color: red;
+    font-size: x-large;
+    transition: width 2s;
+    opacity: 0.0;
+    transition: 0.6s;
+}
+
+.Foto:hover >#Heart {
+    opacity: 1.0;
+}
