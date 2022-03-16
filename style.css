@@ -1,0 +1,9 @@
+#Ipad1 {
+    position: relative;
+    }
+
+#Iphone1 {
+    position: absolute;
+    left: 400px;
+    bottom:200px; 
+}    
