@@ -1,17 +1,4 @@
-/*#Ipad1 {
-    position: relative;
-    }
 
-#Iphone1 {
-    position: absolute;
-    float: left;
-    display: block;
-    left: 315px;
-    bottom:339px;
-
-    } */
-
-/*#Ipad1 ; #Iphone1 ;  #Beats1 ; #Ipad2 ; #Iphone2 ; #Beats2*/ 
 img {
     display: inline-block;
     height: 450px;
@@ -26,4 +13,8 @@ header {
     margin-top: 10px;
     margin-left: 15px;
 }
+
+
+
+
 
